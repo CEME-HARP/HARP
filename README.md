@@ -9,8 +9,8 @@
 Clone the repo if you haven't already:
 
 ```bash
-git clone https://github.com/Syed-Muhammad-Daniyal-Gillani/harp-humanoid-robot.git
-cd harp-humanoid-robot/
+git clone https://github.com/CEME-HARP/HARP.git
+cd HARP/
 ```
 
 ### ⚙️ ROS2 Setup
@@ -73,8 +73,8 @@ Install **ROS2 Humble** by following the official instructions:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Syed-Muhammad-Daniyal-Gillani/harp-humanoid-robot.git
-cd harp-humanoid-robot/
+git clone https://github.com/CEME-HARP/HARP.git
+cd HARP/
 ```
 
 Then run the following shell commands step-by-step:
